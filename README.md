@@ -1,4 +1,4 @@
-# Mumbai University Project - Patient Information System
+# Patient Information System
 
 This Patient Information System is based on Tkinter, a graphical user interface provided by the Python programming language and SQLite,
  a relational database management system contained in a C programming library. It provides a GUI where the user can enter the details of a patient which 
