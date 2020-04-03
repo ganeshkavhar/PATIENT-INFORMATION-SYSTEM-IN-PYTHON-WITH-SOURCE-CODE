@@ -35,7 +35,7 @@ pip install sqlite
 * Clone this repository to a directory of your choice.
 
 ```bash
-git clone https://github.com/ptanmay143/mu-patient-information-system.git
+git clone https://github.com/ganeshkavhar/PATIENT-INFORMATION-SYSTEM-IN-PYTHON-WITH-SOURCE-CODE.git
 ```
 
 * Run the program.
